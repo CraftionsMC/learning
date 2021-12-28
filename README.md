@@ -1,5 +1,5 @@
 
-# craftions-base
+# learning
 
 This is the base of all craftions web apps.
 
@@ -9,13 +9,13 @@ This is the base of all craftions web apps.
 Clone the project
 
 ```bash
-  git clone https://github.com/CraftionsMC/craftions-base
+  git clone https://github.com/CraftionsMC/learning
 ```
 
 Go to the project directory
 
 ```bash
-  cd craftions-base
+  cd learning
 ```
 
 Install dependencies
